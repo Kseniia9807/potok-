@@ -367,9 +367,9 @@ animation: disk1 7s linear infinite;
 }
 .disk2{
     position: absolute;
-    left: 17vw;
-    top: 22vw;
-    width: 61vw;
+    left: 11vw;
+    top: 20vw;
+    width: 74vw;
     animation: disk2 20s linear infinite;
 }
 @keyframes disk2{
@@ -988,155 +988,6 @@ animation: disk1 7s linear infinite;
 
 
 
-@media screen and (min-width: 1921px){
-    .beta{
-        font-size: 254px;
-    }
-    .potok{
-        font-size: 254px;
-    }
-}
-@media screen and (min-width: 1441px) and (max-width: 1920px) {
-    .beta{
-       
-    }
-    .potok{
-        
-    }
-
-}
-
-
-@media screen and (min-width: 769px) and (max-width: 1440px) {
-    .linerun{
-        width: 120vw;
-    }
-.date{
-    left: 61vw;
-}
-.date2{
-    left: 61vw;
-}
-.date3{
-    left: 61vw;
-}
-.writ{     position: absolute;
-    left: 16vw;
-    top: 16vw;
-    width: 9.5vw;}
-.writ2{
-    transform:rotate(0deg);
-    top: 36vw;
-    left: 41vw;
-}
-.writ3{
-    left: 75vw;
-}
-.star{
-    opacity: 0%;
-}
-.star4{
-    position: absolute;
-    top: 115vw;
-    left: 29vw;
-}
-.star5{
-    top: 130vw;
-    left: 93vw;
-}
-.star6{
-    top: 22vw;
-    left: 50vw;
-}
-
-.star7{
-    opacity: 0%;
-    
-}
-.caset4{
-    opacity: 0%;
-    top: 16.5vw;
-}
-.caset6{
-    opacity: 0%;
-    top: 16.5vw;
-}
-.cover4{
-    top: 32vw;
-    left: 60vw;
-}
-.black7{
-    top: 8vw;
-}
-.black5{
-    top: -2vw;
-}
-.black4{
-    top: 52vw;
-}
-
-}
-
-
-
-
-
-@media screen and (min-width: 415px) {
-    .caset4{
-        opacity: 0%;
-        top: 16.5vw;
-    }
-    .caset6{
-        opacity: 0%;
-        top: 16.5vw;
-    }
-    .black1{
-        left: 3vw;
-    }
-    .black2{
-        left: 7vw;
-    }
-    .black7{
-        top: 8vw;
-    }
-    .black5{
-        top: -2vw;
-    }
-    .black4{
-        top: 52vw;
-    }
-    .black6{
-        top: 40vw;
-        left: 12vw;
-    }
- .writ{
-    opacity: 0%;
-
- }
- .star3{
-    top: 72vw;
- }
- .writ3{
-    opacity: 0%;
- }
-    .release3{
-        left: 7vw;
-    }
-    .cas{
-        left: 7vw;
-    }
-    .lp{
-        left: 7vw;
-    }
-    .digr{
-        left: 7vw;
-    }
-}
-
-
-@media screen and (max-width: 414px) {
-
-}
 
 
 
